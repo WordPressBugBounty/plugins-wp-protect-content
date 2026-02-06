@@ -2,9 +2,10 @@
 Contributors: wpexpertsin, india-web-developer
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZEMSYQUZRUK6A
 Tags: content,content copy protection,disable right click,content-protection,prevent copy,prevent save image,prevent print,prevent page source,content theft
-Requires at least: 5.6
-Tested up to: 6.3.1
-Stable tag: 2.7
+Requires at least: 6.0
+Tested up to: 6.9
+Stable tag: 2.8
+Requires PHP: 8.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
